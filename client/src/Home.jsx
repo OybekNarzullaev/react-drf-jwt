@@ -15,7 +15,7 @@ const Home = () => {
   useEffect(() => {
     fetchData();
   }, []);
-  return <div className="text-9xl">{data}</div>;
+  return <div className="text-3xl">{data}</div>;
 };
 
 export default Home;
