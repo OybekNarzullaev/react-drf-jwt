@@ -1,0 +1,20 @@
+{
+  "access_token": "...",
+  "refresh_token": "...",
+  "userInform": {
+    "user": [
+      {
+        "id": 411,
+        "firstname": "Jahongir",
+        "lastname": "Valiyev",
+        "contact": "975588989",
+        "email": "djahongirv@gmail.com",
+        "position": "Geologiya partiya boshlig'i",
+        "subdivision": "Maxsus muhandislik geologiya va dala tajriba tadqiqotlar bo’limi",
+        "permission": true,
+        "live": "1",
+        "status": "41"
+      }
+    ]
+  }
+}
